@@ -5,8 +5,8 @@ date:   2020-07-27 00:00:31 +0300
 categories: jekyll update
 ---
 # Mehmet Can KAHRAMAN
-- https://cankahramanm.github.io/
-- https://www.linkedin.com/in/cankahramanm/
+- https://cankahramanm.github.io
+- https://www.linkedin.com/in/cankahramanm
 - https://github.com/cankahramanm
 - Malatya/Istanbul
 - +905437650744

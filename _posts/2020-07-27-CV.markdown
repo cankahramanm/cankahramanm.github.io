@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "CV"
+date:   2020-07-27 00:00:31 +0300
+categories: jekyll update
+---
+# Mehmet Can KAHRAMAN
+
+- https://www.linkedin.com/in/cankahramanm/
+- https://github.com/cankahramanm
+- Malatya/Istanbul
+- +905437650744
+- cankahramanm@ieee.org
+
+**Education:**
+
+- Akmercan Anatolian High School (2012-2015)
+- Malatya Kültür Basic High School (2015-2016)
+- Istanbul Commerce University Electrical-Electronics Engineering (2017-2022)
+
+**Technical Skills:**
+
+- C Programming Language
+- GNU Linux
+- Python
+- Logic Circuits
+- Arduino
+- Embedded System Design
+
+
+**Social Skills:**
+
+- Camping
+- Fishing
+- Skiing
+- Trekking
+- Cycling
+- Youtuber
+
+**Languages:**
+
+- Turkish(Native language)
+- English(Intermediate)
+
+**Volunteer Organizations:**
+
+- IEEE Istanbul Commerce University Student Branch Head Of Computer Society (2019-Present)
+- Volunteer Instructor at IEEE ICU Student Branch (GNU Linux) (March 2020)
+- IEEE Turkey Student Branch Workshop - Dumlupınar University 2020 as a Participant
+
+**Technical Interests:**
+
+- Scientific Calculation Algorithms
+- Neural Networks
+- Artificial Intelligence
+- Microprocessor Design
+- Hardware Drivers For Embedded Systems
+- System Administration, and so much more...
+
+**Personal Information:**
+
+- Age: 22
+- Driver License: B
+- Place Of Birth: Malatya
+- Place of Residence: Istanbul/Maltepe

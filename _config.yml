@@ -1,0 +1,66 @@
+title: Mehmet Can KAHRAMAN
+author:
+  name: cankahramanm
+  email: cankahramanm@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Mehmet Can KAHRAMAN's personal website.
+
+show_excerpts: false # set to true to show excerpts on the homepage
+url: "http://cankahramanm.github.io"
+#background-image: url(’/assets/bg.png’);
+
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter:
+    github:  cankahramanm
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    instagram: cankahramanm
+    linkedin: cankahramanm
+    # pinterest: jekyll
+    youtube: 4K4ZEN
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+webmaster_verifications:
+  #google: 1234
+  #bing: 1234
+  #alexa: 1234
+  #yandex:
+  #baidu: 1234
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

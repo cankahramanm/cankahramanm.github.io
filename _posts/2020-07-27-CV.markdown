@@ -54,6 +54,7 @@ categories: jekyll update
 - EPC Power Systems
 - Electricity Generation
 - Nuclear Energy
+- Rooftop solar systems
 - Microprocessor Design
 - Hardware Drivers For Embedded Systems
 - System Administration, and so much more...

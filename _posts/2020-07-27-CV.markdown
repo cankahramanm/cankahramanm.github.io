@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CV"
-date:   2020-07-27 00:00:31 +0300
+date:   2020-11-13 00:00:31 +0300
 categories: jekyll update
 ---
 # Mehmet Can KAHRAMAN
@@ -50,9 +50,10 @@ categories: jekyll update
 
 **Technical Interests:**
 
-- Scientific Calculation Algorithms
-- Neural Networks
-- Artificial Intelligence
+- Renewable energys
+- EPC Power Systems
+- Electricity Generation
+- Nuclear Energy
 - Microprocessor Design
 - Hardware Drivers For Embedded Systems
 - System Administration, and so much more...
